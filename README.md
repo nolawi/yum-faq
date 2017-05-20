@@ -17,7 +17,13 @@ FAQ functionality
 * Image captioning 
 * Test in IE
 * Check if layout video on mobile vimeo
-* remove heigh
+* remove height in header replacing app header.
+* rework footer structure and layout in main app
+* main app remove fixed footer (ashtush)
+* Have someone upload vimeo videos
+* coordinate for main content Q and A ( get in excel with images hosted)
+* add styles for bullets, sub titles in answers section 
+
 
 # feedback notes here
 * 
