@@ -8,7 +8,7 @@ FAQ functionality
 * Supports images, videos 
 * Bootstrap same grid as the rest of site
 * WIll use existing support
-** adding placehoder text
+* added placehoder text
 
 ## To Do
 * Coordinate with ashtush how he is going to insert ui middle section to app
