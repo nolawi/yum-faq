@@ -23,6 +23,9 @@ FAQ functionality
 * Have someone upload vimeo videos
 * coordinate for main content Q and A ( get in excel with images hosted)
 * add styles for bullets, sub titles in answers section 
+* think about design dashboad landing page with icons (maybe glyphs/ contrast issues)
+* sidebard design needs to fit other section of main app
+* look for open source customizable wiki 
 
 
 # feedback notes here
