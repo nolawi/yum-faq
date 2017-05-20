@@ -1,0 +1,2 @@
+# yum-faq
+FAQ functionality
