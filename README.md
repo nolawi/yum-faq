@@ -17,6 +17,10 @@ FAQ functionality
 * Image captioning 
 * Test in IE
 * Check if layout video on mobile vimeo
+* remove heigh
+
+# feedback notes here
+* 
 
 
 
